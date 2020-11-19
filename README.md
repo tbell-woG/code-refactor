@@ -5,4 +5,3 @@ The link to the screenshots are:
 <img src="https://i.ibb.co/g4vyYtt/code-refactor-image-1.png" alt="code-refactor-image-1" border="0">
 <img src="https://i.ibb.co/rZ02sRh/code-refactor-image-2.png" alt="code-refactor-image-2" border="0">
 <img src="https://i.ibb.co/pwtn0qS/code-refactor-image-3.png" alt="code-refactor-image-3" border="0">
-<img src="https://i.ibb.co/p1c3GR8/code-refactor-image-4.png" alt="code-refactor-image-4" border="0">
